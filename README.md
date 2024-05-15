@@ -1,7 +1,6 @@
 # Hi there 👋
 
-- 🔭 Today I work as a frontend trainee
-- 🌱 I’m currently learning Angular,Java and MySQL ...
+
 
 <div align="center">
   <a href="https://github.com/Vwccosta">
